@@ -1,4 +1,11 @@
-# Hello, World !
+# Hello, World 👋 I'm David Matano !
+<br/>
+- Jr. Android Developer at [Paygo - C6 Bank](https://paygo.com.br/)<br/>
+- Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
+- Coffee lover ♥️☕<br/>
+- Guitarist in spare time 🎸<br/>
+<br/>
+
 
 <!-- gh user stats -->
 <div align="center">
@@ -6,6 +13,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmmatano&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&title_color=3DDC84&bg_color=073042&icon_color=4285F4"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmmatano&layout=compact&langs_count=7&theme=vue-dark&title_color=3DDC84&bg_color=073042&icon_color=4285F4"/>
 </div>
+  
+
+
   
 <!-- dev icons -->
 <div style="display: inline_block"><br>
