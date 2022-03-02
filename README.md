@@ -1,5 +1,6 @@
 # Hello, World 👋 I'm David Matano !
-<br/>
+<br>
+
 - Jr. Android Developer at [Paygo - C6 Bank](https://paygo.com.br/)<br/>
 - Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
 - Coffee lover ♥️☕<br/>
