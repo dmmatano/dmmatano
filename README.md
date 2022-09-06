@@ -5,14 +5,21 @@
 - Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
 - Coffee lover ♥️☕<br/>
 - Guitarist in spare time 🎸<br/>
+  
+<!-- dev icons -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <img align="center" alt="dmm-kt" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 <br/>
 
-## Public Repos
+### Public Repos
 - 1
 - 2
 - 3
 
-## Private Repos
+### Private Repos
 - 1
 - 2
 - 3
@@ -26,13 +33,6 @@
   ..>
 
 
-  
-<!-- dev icons -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="dmm-kt" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
   
   ##
   
