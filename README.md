@@ -1,4 +1,4 @@
-<span style="color:blue">Hello, World 👋 I'm David Matano !</span>
+# Hello, World 👋 I'm David Matano !
 <br>
 
 - Jr. Android Developer at [C6 Bank](https://www.c6bank.com.br/)<br/>
@@ -22,6 +22,7 @@
 ### Private Repos
 Programming Languages
 - [Kotlin](https://github.com/dmmatano/kotlin-study)
+
 App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
 - [Service Study 1](https://github.com/dmmatano/service-study-01)
