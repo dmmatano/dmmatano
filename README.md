@@ -1,4 +1,4 @@
-# `#ff0000`Hello, World 👋 I'm David Matano !
+# <span style="color:blue">Hello, World 👋 I'm David Matano !</span>
 <br>
 
 - Jr. Android Developer at [C6 Bank](https://www.c6bank.com.br/)<br/>
