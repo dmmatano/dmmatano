@@ -28,10 +28,9 @@ App Components
 - [Broadcast Study 1](https://github.com/dmmatano/broadcast-receiver-study-01)
 - [Intent Study 1](https://github.com/dmmatano/intent-study-01)
 - [Intent Study](https://github.com/dmmatano/intent-study)
-<br/>
+
 Navigation
 - [Navigation Study 1](https://github.com/dmmatano/navigation-study-01)
-
 <!-- gh user stats 
 <div align="center">
   <a href="https://github.com/dmmatano">
