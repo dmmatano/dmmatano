@@ -1,7 +1,7 @@
 # Hello, World 👋 I'm David Matano !
 <br>
 
-- Jr. Android Developer at [C6 Bank](https://paygo.com.br/)<br/>
+- Jr. Android Developer at [C6 Bank](https://www.c6bank.com.br/)<br/>
 - Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
 - Coffee lover ♥️☕<br/>
 - Guitarist in spare time 🎸<br/>
@@ -22,9 +22,14 @@
 - 3
 
 ### Private Repos
+App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
 - [Service Study 1](https://github.com/dmmatano/service-study-01)
 - [Broadcast Study 1](https://github.com/dmmatano/broadcast-receiver-study-01)
+- [Intent Study 1](https://github.com/dmmatano/intent-study-01)
+- [Intent Study](https://github.com/dmmatano/intent-study)
+Navigation
+- [Navigation Study 1](https://github.com/dmmatano/navigation-study-01)
 
 <!-- gh user stats 
 <div align="center">
