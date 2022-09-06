@@ -7,6 +7,15 @@
 - Guitarist in spare time 🎸<br/>
 <br/>
 
+## Public Repos
+- 1
+- 2
+- 3
+
+## Private Repos
+- 1
+- 2
+- 3
 
 <!-- gh user stats 
 <div align="center">
