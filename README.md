@@ -22,9 +22,9 @@
 - 3
 
 ### Private Repos
-- 1
-- 2
-- 3
+- [Activity Study 1](https://github.com/dmmatano/activity-study-01)
+- [Service Study 1](https://github.com/dmmatano/service-study-01)
+- [Broadcast Study 1](https://github.com/dmmatano/broadcast-receiver-study-01)
 
 <!-- gh user stats 
 <div align="center">
