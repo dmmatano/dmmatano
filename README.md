@@ -13,6 +13,7 @@
   <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 <br/>
+##
 
 ### Public Repos
 - 1
@@ -31,7 +32,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmmatano&layout=compact&langs_count=7&theme=vue-dark&title_color=3DDC84&bg_color=073042&icon_color=4285F4"/>
 </div>
   ..>
-
+-->
 
   
   ##
