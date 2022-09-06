@@ -27,7 +27,8 @@ App Components
 - [Service Study 1](https://github.com/dmmatano/service-study-01)
 - [Broadcast Study 1](https://github.com/dmmatano/broadcast-receiver-study-01)
 - [Intent Study 1](https://github.com/dmmatano/intent-study-01)
-- [Intent Study](https://github.com/dmmatano/intent-study)<br/>
+- [Intent Study](https://github.com/dmmatano/intent-study)
+<br/>
 Navigation
 - [Navigation Study 1](https://github.com/dmmatano/navigation-study-01)
 
