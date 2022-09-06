@@ -17,11 +17,11 @@
   ##
 
 ### Public Repos
-- 1
-- 2
-- 3
+- [Jr. Calculator](https://github.com/dmmatano/jr_calculator)
 
 ### Private Repos
+Programming Languages
+- [Kotlin](https://github.com/dmmatano/kotlin-study)
 App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
 - [Service Study 1](https://github.com/dmmatano/service-study-01)
@@ -31,6 +31,7 @@ App Components
 
 Navigation
 - [Navigation Study 1](https://github.com/dmmatano/navigation-study-01)
+- [Fragment Study 01](https://github.com/dmmatano/fragments-study-01)
 <!-- gh user stats 
 <div align="center">
   <a href="https://github.com/dmmatano">
