@@ -34,6 +34,7 @@ App Components
 
 Navigation
 - [Navigation Study 1](https://github.com/dmmatano/navigation-study-01)
+- [Navigation Study 2](https://github.com/dmmatano/navigation-study-02)
 - [Fragment Study 01](https://github.com/dmmatano/fragments-study-01)
 <!-- gh user stats 
 <div align="center">
