@@ -21,7 +21,7 @@
 
   ##
 
-### Private Repos
+### Private Repos - Study Purpose
 Programming Languages
 - [Kotlin](https://github.com/dmmatano/kotlin-study)
 
