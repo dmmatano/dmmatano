@@ -44,6 +44,9 @@ App Startup
 Dependency Injection
 
 Architecture Components
+- [ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
+- [Fragment Lifecycle](https://github.com/dmmatano/fragments-study-01)
+- [Activity Lifecycle](https://github.com/dmmatano/activity-study-01)
 
 Design Patterns
 
