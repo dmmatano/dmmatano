@@ -50,6 +50,7 @@ Architecture Components
 - [ViewModel (without constructors/no factory)](https://github.com/dmmatano/binding-study)
 - Paging
 - [Data Store](https://github.com/dmmatano/data-store-study-01)
+- Work Manager
 
 Design Patterns
 
