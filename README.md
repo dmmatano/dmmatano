@@ -53,6 +53,7 @@ Architecture Components
 - [Work Manager](https://github.com/dmmatano/workmanager-study-01)
 
 Design Patterns
+- [Design Patterns](https://github.com/dmmatano/design-patterns)
 
 Architecture
 
