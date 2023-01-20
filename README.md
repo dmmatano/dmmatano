@@ -42,7 +42,7 @@ Navigation
 App Startup
 
 Dependency Injection
-- Koin
+- [Koin](https://github.com/dmmatano/koin)
 - 
 Architecture Components
 - [ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
