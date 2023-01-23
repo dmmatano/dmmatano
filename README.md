@@ -58,7 +58,8 @@ Design Patterns
 
 Architecture
 - MVVM
-- MVI
+- MVI <br>
+
 Network
 
 Image Loading
