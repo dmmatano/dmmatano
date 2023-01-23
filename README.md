@@ -43,7 +43,7 @@ App Startup
 
 Dependency Injection
 - [Koin](https://github.com/dmmatano/koin)
-- 
+- [Hilt](https://github.com/dmmatano/hilt)
 Architecture Components
 - [ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
 - [Fragment Lifecycle](https://github.com/dmmatano/fragments-study-01)
@@ -57,7 +57,8 @@ Design Patterns
 - [Design Patterns](https://github.com/dmmatano/design-patterns)
 
 Architecture
-
+- MVVM
+- MVI
 Network
 
 Image Loading
