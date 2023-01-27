@@ -58,9 +58,11 @@ Design Patterns
 
 Architecture
 - [MVVM](https://github.com/dmmatano/mvvm)
-- MVI <br>
+- [Clean Architecture](https://github.com/dmmatano/clean-architecture/blob/main/README.md) <br>
 
 Network
+- OkHttp
+- Retrofit
 
 Image Loading
 
