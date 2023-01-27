@@ -57,7 +57,7 @@ Design Patterns
 - [Design Patterns](https://github.com/dmmatano/design-patterns)
 
 Architecture
-- MVVM
+- [MVVM](https://github.com/dmmatano/mvvm)
 - MVI <br>
 
 Network
