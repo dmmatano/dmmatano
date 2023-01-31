@@ -66,6 +66,7 @@ Network
 
 Image Loading
 - Image management: [Glide](https://github.com/bumptech/glide)
+- Coroutine image loader: [Coil](https://coil-kt.github.io/coil/)
 
 Asynchronous
 - [Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
