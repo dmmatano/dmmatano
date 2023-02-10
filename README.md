@@ -1,7 +1,7 @@
 # Hello, World 👋 I'm David Matano !
 <br>
 
-- Jr. Android Developer at [C6 Bank](https://www.c6bank.com.br/)<br/>
+- Jr. Android Developer<br/>
 - Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
 - Coffee lover ♥️☕<br/>
 - Guitarist in spare time 🎸<br/>
