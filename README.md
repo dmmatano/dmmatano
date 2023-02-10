@@ -76,6 +76,7 @@ Local Storage
 
 Asynchronous
 - [Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
+- Thread
 
 UI
 
