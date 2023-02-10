@@ -69,6 +69,10 @@ Image Loading
 - Coroutine image loader: [Coil](https://coil-kt.github.io/coil/)
 - [Picasso](https://square.github.io/picasso/)
 
+Local Storage
+- [Room Database](https://github.com/dmmatano/room)
+- [Data Store](https://github.com/dmmatano/data-store-study-01)
+
 Asynchronous
 - [Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
 
