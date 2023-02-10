@@ -17,7 +17,11 @@
   ##
 
 ### Apps 
-- [Jr. Calculator](https://github.com/dmmatano/jr_calculator)
+
+|||||
+|------|------|--------|------|
+|[![image](https://user-images.githubusercontent.com/53324891/217986679-1c068248-fbca-4e04-83dd-8e7c28ddf59a.png)](https://github.com/dmmatano/jr_calculator)|[![image](https://user-images.githubusercontent.com/53324891/217986679-1c068248-fbca-4e04-83dd-8e7c28ddf59a.png)](https://github.com/dmmatano/jr_calculator)|[![image](https://user-images.githubusercontent.com/53324891/217986679-1c068248-fbca-4e04-83dd-8e7c28ddf59a.png)](https://github.com/dmmatano/jr_calculator)|[![image](https://user-images.githubusercontent.com/53324891/217986679-1c068248-fbca-4e04-83dd-8e7c28ddf59a.png)](https://github.com/dmmatano/jr_calculator)|
+
 
   ##
 
