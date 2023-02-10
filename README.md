@@ -16,12 +16,12 @@
 
   ##
 
-### Public Repos
+### Apps 
 - [Jr. Calculator](https://github.com/dmmatano/jr_calculator)
 
   ##
 
-### Private Repos - Study Purpose
+### Study
 Programming Languages
 - [Kotlin](https://github.com/dmmatano/kotlin-study)
 
