@@ -72,6 +72,7 @@ Image Loading
 Local Storage
 - [Room Database](https://github.com/dmmatano/room)
 - [Data Store](https://github.com/dmmatano/data-store-study-01)
+- SharedPreferences
 
 Asynchronous
 - [Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
