@@ -80,7 +80,9 @@ Local Storage
 
 Asynchronous
 - [Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
-- Thread
+- [Thread](https://github.com/dmmatano/threads/blob/main/README.md)
+- [Work Manager](https://github.com/dmmatano/workmanager-study-01)
+- RxJava
 
 UI
 
