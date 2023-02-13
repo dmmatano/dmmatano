@@ -86,6 +86,7 @@ Asynchronous
 
 UI
 - [MotionLayout](https://github.com/dmmatano/motion-layout-study/blob/main/README.md)
+- RecyclerView
 
 Compose UI
 
