@@ -86,7 +86,9 @@ Asynchronous
 
 UI
 - [MotionLayout](https://github.com/dmmatano/motion-layout-study/blob/main/README.md)
-- RecyclerView
+- [RecyclerView 1](https://github.com/dmmatano/recyclerview-study-01)
+- [RecyclerView 2 (with clickable views inside each item)](https://github.com/dmmatano/recyclerview-study-02)
+- [RecyclerView 3](https://github.com/dmmatano/recyclerview-study-03)
 
 Compose UI
 
