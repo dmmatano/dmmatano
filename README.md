@@ -89,7 +89,7 @@ UI
 - [RecyclerView 1](https://github.com/dmmatano/recyclerview-study-01)
 - [RecyclerView 2 (with clickable views inside each item)](https://github.com/dmmatano/recyclerview-study-02)
 - [RecyclerView 3](https://github.com/dmmatano/recyclerview-study-03)
-- Design Guides: Material, Material You, etc.
+- [Design Guides: Material, Material You, etc.](https://github.com/dmmatano/design-guidelines)
 
 Compose UI
 
