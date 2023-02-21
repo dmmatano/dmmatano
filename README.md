@@ -91,7 +91,7 @@ UI
 - [RecyclerView 3](https://github.com/dmmatano/recyclerview-study-03)
 - [Design Guides: Material, Material You, etc.](https://github.com/dmmatano/design-guidelines)
 - [Light/Dark Mode](https://github.com/dmmatano/dark-mode/blob/main/README.md)
-- Message: Toast, Snackbar, Notification
+- [Message: Toast, Snackbar, Notification](https://github.com/dmmatano/android-messages)
 
 Compose UI
 
