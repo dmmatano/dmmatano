@@ -98,6 +98,7 @@ Compose UI
 - [O famigerado Jetpack Compose (EM CONSTRUÇÃO)](https://github.com/dmmatano/jetpack-compose/blob/main/README.md)
 
 Service
+- Google Play Service
 
 Tests and Analysis
 - [Atilsamancioglu Test App](https://github.com/atilsamancioglu/IA27-ArtBookHiltTesting)
