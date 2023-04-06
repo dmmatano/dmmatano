@@ -26,6 +26,9 @@
   ##
 
 ### Study
+App Manifest
+- Manifest
+- 
 Programming Languages
 - [Kotlin](https://github.com/dmmatano/kotlin-study)
 
