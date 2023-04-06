@@ -27,8 +27,8 @@
 
 ### Study
 App Manifest
-- Manifest
-- 
+- [Manifest](https://github.com/dmmatano/app-manifest)
+
 Programming Languages
 - [Kotlin](https://github.com/dmmatano/kotlin-study)
 
