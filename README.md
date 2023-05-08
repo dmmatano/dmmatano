@@ -29,6 +29,9 @@
 App Manifest
 - [Manifest](https://github.com/dmmatano/app-manifest)
 
+Hardware
+- [Sensors](https://github.com/dmmatano/sensors-app)
+
 Programming Languages
 - [Kotlin](https://github.com/dmmatano/kotlin-study)
 
