@@ -20,7 +20,7 @@
 
 |||||
 |------|------|--------|------|
-|![Capturar](https://user-images.githubusercontent.com/53324891/220197899-49d074d9-709d-4c2b-924c-ee508601ee04.JPG)<p align=center>[My Simple Notes](https://github.com/dmmatano/my-simple-notes)</p>|![image](https://user-images.githubusercontent.com/53324891/218278565-41f11b9a-1253-49d7-833c-44c1c8b3b4c1.png)<p align=center>[Jr.Calculator](https://github.com/dmmatano/jr_calculator)</p>|||
+|![note](https://github.com/dmmatano/dmmatano/assets/53324891/af9ce21a-5123-4fd1-bf3e-e10a9439397f)<p align=center>[My Simple Notes](https://github.com/dmmatano/my-simple-notes)</p>|![image](https://user-images.githubusercontent.com/53324891/218278565-41f11b9a-1253-49d7-833c-44c1c8b3b4c1.png)<p align=center>[Jr.Calculator](https://github.com/dmmatano/jr_calculator)</p>|![app-exercicios-gh](https://github.com/dmmatano/dmmatano/assets/53324891/a347b5d5-9d73-4895-b542-4a950e7ed281)<p align=center>[Offtraining](https://play.google.com/store/apps/details?id=com.dmmdev.offtraining)</p>||
 
 
   ##
