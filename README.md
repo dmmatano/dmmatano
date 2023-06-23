@@ -33,7 +33,7 @@ Hardware
 - [Sensors](https://github.com/dmmatano/sensors-app)
 
 Programming Languages
-- [Kotlin](https://github.com/dmmatano/kotlin-study)
+- :fire:[Kotlin](https://github.com/dmmatano/kotlin-study)
 
 App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
@@ -53,28 +53,28 @@ Navigation
 App Startup
 
 Dependency Injection
-- [Koin](https://github.com/dmmatano/koin)
-- [Hilt](https://github.com/dmmatano/hilt)
+- :fire:[Koin](https://github.com/dmmatano/koin)
+- :fire:[Hilt](https://github.com/dmmatano/hilt)
 
 Architecture Components
-- [ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
+- :fire:[ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
 - [Fragment Lifecycle](https://github.com/dmmatano/fragments-study-01)
 - [Activity Lifecycle](https://github.com/dmmatano/activity-study-01)
-- [ViewModel (without constructors/no factory)](https://github.com/dmmatano/binding-study)
+- :fire:[ViewModel (without constructors/no factory)](https://github.com/dmmatano/binding-study)
 - Paging
 - [Data Store](https://github.com/dmmatano/data-store-study-01)
 - [Work Manager](https://github.com/dmmatano/workmanager-study-01)
 
 Design Patterns
-- [Design Patterns](https://github.com/dmmatano/design-patterns)
+- :fire:[Design Patterns](https://github.com/dmmatano/design-patterns)
 
 Architecture
-- [MVVM](https://github.com/dmmatano/mvvm)
-- [Clean Architecture](https://github.com/dmmatano/clean-architecture/blob/main/README.md) <br>
+- :fire:[MVVM](https://github.com/dmmatano/mvvm)
+- :fire:[Clean Architecture](https://github.com/dmmatano/clean-architecture/blob/main/README.md) <br>
 
 Network
-- OkHttp
-- [Retrofit](https://github.com/dmmatano/retrofit-app)
+- :fire:OkHttp
+- :fire:[Retrofit](https://github.com/dmmatano/retrofit-app)
 
 Image Loading
 - Image management: [Glide](https://github.com/bumptech/glide)
@@ -82,15 +82,15 @@ Image Loading
 - [Picasso](https://square.github.io/picasso/)
 
 Local Storage
-- [Room Database](https://github.com/dmmatano/room)
+- :fire:[Room Database](https://github.com/dmmatano/room)
 - [Data Store](https://github.com/dmmatano/data-store-study-01)
 - SharedPreferences
 
 Asynchronous
-- [Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
-- [Thread](https://github.com/dmmatano/threads/blob/main/README.md)
+- :fire:[Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
+- :fire:[Thread](https://github.com/dmmatano/threads/blob/main/README.md)
 - [Work Manager](https://github.com/dmmatano/workmanager-study-01)
-- [RxJava](https://github.com/dmmatano/rxjava)
+- :fire:[RxJava](https://github.com/dmmatano/rxjava)
 
 UI
 - [MotionLayout](https://github.com/dmmatano/motion-layout-study/blob/main/README.md)
@@ -107,10 +107,10 @@ Compose UI
 
 Service
 - [Google Services](https://github.com/dmmatano/google-play-services/blob/main/README.md)
-- [Firebase](https://github.com/dmmatano/firebase)
+- :fire:[Firebase](https://github.com/dmmatano/firebase)
 - [Google AdMob](https://github.com/dmmatano/google-admob)
 
-Tests and Analysis
+:fire:Tests and Analysis
 - [Atilsamancioglu Test App](https://github.com/atilsamancioglu/IA27-ArtBookHiltTesting)
 - [Test Study 01](https://github.com/dmmatano/test-study-01)
 - [Code Analysis](https://github.com/dmmatano/code-analysis/blob/main/README.md)
