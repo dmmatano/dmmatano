@@ -1,18 +1,24 @@
 # Hello, World 👋 I'm David Matano !
 <br>
+ 
 
 - Jr. Android Developer<br/>
 - Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
 - Coffee lover ♥️☕<br/>
 - Guitarist in spare time 🎸<br/>
   
-<!-- dev icons -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="dmm-kt" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="dmm-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<div> 
+  <a href="https://www.instagram.com/davidmatano" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href = "mailto:davidmatano@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/davidmatano" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+ 
 </div>
-<br/>
 
   ##
 
@@ -119,18 +125,4 @@ CI/CD
 
 QA and App Stores
 
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/davidmatano" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href = "mailto:davidmatano@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/davidmatano" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
  
-</div>
