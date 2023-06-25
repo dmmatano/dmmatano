@@ -89,6 +89,7 @@ Image Loading
 
 Local Storage
 - :fire:[Room Database](https://github.com/dmmatano/room)
+- [Room Database (Multiple tables)](https://github.com/dmmatano/room-db-multiple-entities)
 - [Data Store](https://github.com/dmmatano/data-store-study-01)
 - SharedPreferences
 
