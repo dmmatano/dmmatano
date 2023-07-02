@@ -22,7 +22,7 @@
 
   ##
 
-### Apps 
+## Apps 
 
 |||||
 |------|------|--------|------|
@@ -31,7 +31,11 @@
 
   ##
 
-### Study
+## Study
+### API | Webservices | Node.js | Cloud
+API
+- Todo API
+### Mobile Development - Android
 App Manifest
 - [Manifest](https://github.com/dmmatano/app-manifest)
 
