@@ -68,6 +68,7 @@ Dependency Injection
 
 Architecture Components
 - :fire:[ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
+- [Data Binding](https://github.com/dmmatano/data-binding)
 - [Fragment Lifecycle](https://github.com/dmmatano/fragments-study-01)
 - [Activity Lifecycle](https://github.com/dmmatano/activity-study-01)
 - :fire:[ViewModel (without constructors/no factory)](https://github.com/dmmatano/binding-study)
