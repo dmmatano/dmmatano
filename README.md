@@ -17,16 +17,17 @@
   <a href="https://www.linkedin.com/in/davidmatano" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
+
 </div>
 
   ##
-
+ ![port](https://github.com/dmmatano/dmmatano/assets/53324891/703d23bc-1e25-4d56-a9c7-7f16a02d1855)<br/>
+ [Visite o site](https://www.dmwaresolutions.com/)
 ## Apps 
 
-|||||
-|------|------|--------|------|
-|![note](https://github.com/dmmatano/dmmatano/assets/53324891/af9ce21a-5123-4fd1-bf3e-e10a9439397f)<p align=center>[My Simple Notes](https://github.com/dmmatano/my-simple-notes)</p>|![image](https://user-images.githubusercontent.com/53324891/218278565-41f11b9a-1253-49d7-833c-44c1c8b3b4c1.png)<p align=center>[Jr.Calculator](https://github.com/dmmatano/jr_calculator)</p>|![app-exercicios-gh](https://github.com/dmmatano/dmmatano/assets/53324891/a347b5d5-9d73-4895-b542-4a950e7ed281)<p align=center>[Offtraining](https://play.google.com/store/apps/details?id=com.dmmdev.offtraining)</p>||
+- [My Simple Notes](https://github.com/dmmatano/my-simple-notes)
+- [Jr.Calculator](https://github.com/dmmatano/jr_calculator)
+- [Offtraining](https://play.google.com/store/apps/details?id=com.dmmdev.offtraining)
 
 
   ##
