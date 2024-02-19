@@ -48,6 +48,10 @@ Hardware
 Programming Languages
 - :fire:[Kotlin](https://github.com/dmmatano/kotlin-study)
 
+
+SOLID
+- [SOLID](https://www.youtube.com/watch?v=RS_mrRpL9y0)
+
 App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
 - [Service Study 1](https://github.com/dmmatano/service-study-01)
