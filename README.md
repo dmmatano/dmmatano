@@ -50,7 +50,8 @@ Programming Languages
 
 
 SOLID
-- [SOLID](https://www.youtube.com/watch?v=RS_mrRpL9y0)
+- [Tutorial](https://www.youtube.com/watch?v=RS_mrRpL9y0)
+- [SOLID](https://github.com/dmmatano/solid)
 
 App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
