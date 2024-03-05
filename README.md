@@ -142,5 +142,6 @@ QA and App Stores
 ### Mobile Development - Flutter 
 
 - [Dart](https://github.com/dmmatano/dart)
+- [App despesas](https://github.com/dmmatano/app_despesas_flutter)
 
   
