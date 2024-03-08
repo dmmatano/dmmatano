@@ -89,7 +89,7 @@ Design Patterns
 
 Architecture
 - :fire:[MVVM](https://github.com/dmmatano/mvvm)
-- :fire:[MVP](https://github.com/dmmatano/mvvm)
+- :fire:[MVP](https://github.com/dmmatano/mvpapp)
 - :fire:[Clean Architecture](https://github.com/dmmatano/clean-architecture/blob/main/README.md) <br>
 
 Network
