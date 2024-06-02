@@ -73,6 +73,7 @@ App Startup
 Dependency Injection
 - :fire:[Koin](https://github.com/dmmatano/koin)
 - :fire:[Hilt](https://github.com/dmmatano/hilt)
+- [Hilt2](https://github.com/dmmatano/hilt2)
 
 Architecture Components
 - :fire:[ViewBinding and DataBinding](https://github.com/dmmatano/binding-study)
