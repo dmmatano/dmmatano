@@ -35,6 +35,10 @@
   ##
 
 ## Study
+### Data Structure | Algorithms | Clean Code | OOP | SOLID 
+Data Structures
+Algorithms
+OOP/SOLID
 ### API | Webservices | Node.js | Cloud
 API
 - [Todo API](https://github.com/dmmatano/todo-api)
