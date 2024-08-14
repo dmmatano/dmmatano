@@ -37,6 +37,8 @@
 ## Study
 ### Data Structure | Algorithms | Clean Code | OOP | SOLID 
 Data Structures
+- [Estrutura de dados](https://github.com/dmmatano/datastructure)
+   
 Algorithms
 OOP/SOLID
 ### API | Webservices | Node.js | Cloud
