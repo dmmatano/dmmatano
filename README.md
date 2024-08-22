@@ -131,7 +131,7 @@ UI
 - [Animation](https://github.com/dmmatano/animation/blob/main/README.md)
 
 Compose UI
-- [Jetpack Compose (EM CONSTRUÇÃO)](https://github.com/dmmatano/jetpack-compose/blob/main/README.md)
+- [Jetpack Compose Docs](https://github.com/dmmatano/compose)
 
 Service
 - [Google Services](https://github.com/dmmatano/google-play-services/blob/main/README.md)
