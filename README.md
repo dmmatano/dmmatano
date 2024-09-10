@@ -59,7 +59,7 @@ SOLID
 - [SOLID](https://github.com/dmmatano/solid)
 
 Modularização
-- [Modularização](https://www.youtube.com/watch?v=RS_mrRpL9y0)
+- [Modularização](https://github.com/dmmatano/modularizacao01)
 
 App Components
 - [Activity Study 1](https://github.com/dmmatano/activity-study-01)
