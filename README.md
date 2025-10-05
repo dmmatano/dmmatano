@@ -3,7 +3,7 @@
  
 
 - Android Developer<br/>
-- Interested in Android, Kotlin, mobile development, mobile games, traveling and food<br/>
+- Interested in Android development, mobile games, traveling and food<br/>
 - Coffee lover ♥️☕<br/>
 - Guitarist in spare time 🎸<br/>
   
