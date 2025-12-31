@@ -37,6 +37,8 @@ Data Structures
 - [Estrutura de dados](https://github.com/dmmatano/datastructure)
    
 Algorithms
+- [Algoritmos](https://github.com/dmmatano/algorithms/tree/master)
+  
 OOP/SOLID
 ### API | Webservices | Node.js | Cloud
 API
