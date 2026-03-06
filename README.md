@@ -119,7 +119,8 @@ Asynchronous
 - :fire:[Coroutines](https://github.com/dmmatano/coroutines-study-01/blob/main/README.md)
 - :fire:[Thread](https://github.com/dmmatano/threads/blob/main/README.md)
 - [Work Manager](https://github.com/dmmatano/workmanager-study-01)
-- :fire:[RxJava](https://github.com/dmmatano/rxjava)
+- :fire:[Kotlin Flow](https://github.com/dmmatano/kotlin-flow/blob/master/README.md)
+- [RxJava](https://github.com/dmmatano/rxjava)
 
 UI
 - [MotionLayout](https://github.com/dmmatano/motion-layout-study/blob/main/README.md)
